@@ -1,2 +1,1 @@
-# hello-world
-Just another repository
+记录和技术相关的文档
